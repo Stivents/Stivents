@@ -1,6 +1,6 @@
 # Hola!! mi nombre es Stivents 👋
 ### Programador Full-Stack
-![](https://github.com/Stivents/Stivents/blob/main/src/img/StiventsDev.png)
+![https://github.com](https://raw.githubusercontent.com/Stivents/Stivents/blob/main/src/img/StiventsDev.png)
 
 <!--
 **Stivents/Stivents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
