@@ -4,7 +4,11 @@
 
 [![Portafolio](https://img.shields.io/website?style=for-the-badge&up_message=Porfolio&url=http%3A%2F%2Fwww.google.com)](www.google.com)
 
-####  Desarrollador apasionado por crear software, con experiencia en diferentes tecnologías. En mi GitHub, encontrarás proyectos y colaboraciones que muestran soluciones eficientes e innovadoras. Documento y actualizo regularmente mis proyectos. Busco nuevas oportunidades de colaboración y aprendizaje.
+####  Un apasionado desarrollador de software con experiencia en la industria. Mi principal área de interés es Back-End, y he trabajado en proyectos en una variedad de lenguajes de programación, incluyendo nodeJS.
+
+Me encanta aprender nuevas tecnologías y siempre estoy buscando formas de mejorar mis habilidades y conocimientos. En mi tiempo libre, disfruto creando proyectos personales que comunmente comparto con la comunidad.
+
+Me considero una persona comprometida y motivada, con habilidades para trabajar en equipo y resolver problemas de manera efectiva. Mi objetivo es seguir creciendo como desarrollador y contribuir al avance de la industria de la tecnología a través de soluciones innovadoras y eficientes.
 
 <!--
 **Stivents/Stivents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
