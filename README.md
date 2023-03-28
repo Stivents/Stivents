@@ -2,6 +2,10 @@
 ### Programador Full-Stack
 ![https://github.com/Stivents](https://raw.githubusercontent.com/Stivents/Stivents/main/src/img/StiventsDev.png)
 
+[![Portafolio](https://img.shields.io/website?style=for-the-badge&up_message=Porfolio&url=http%3A%2F%2Fwww.google.com)](www.google.com)
+
+####  Desarrollador apasionado por crear software, con experiencia en diferentes tecnologías. En mi GitHub, encontrarás proyectos y colaboraciones que muestran soluciones eficientes e innovadoras. Documento y actualizo regularmente mis proyectos. Busco nuevas oportunidades de colaboración y aprendizaje.
+
 <!--
 **Stivents/Stivents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
